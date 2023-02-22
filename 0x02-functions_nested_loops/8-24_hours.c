@@ -5,7 +5,7 @@
  * Return: ...
  */
 
-void jack_bauer(int);
+void jack_bauer(void)
 
 {
 
@@ -33,4 +33,3 @@ void jack_bauer(int);
 	}
 	}
 }
-
