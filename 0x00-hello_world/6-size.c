@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - main function
+ * main - A program that prints the size of various types
  *
- * Return: o on successs
+ * Return 0 (successs)
  */
 
 int main(void)
